@@ -22,7 +22,7 @@ module.exports = {
     config.cache = false;
     withModuleFederation(config, options, mfConf);
     if (!isServer) {
-      config.output.publicPath = "https://mf-app1-theta.vercel.app";
+      config.output.publicPath = "https://mf-app1-theta.vercel.app/";
     }
 
     return config;
