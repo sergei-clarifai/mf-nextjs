@@ -13,8 +13,8 @@ const Mario = () => {
       <h1 className={styles.title}>I'm Mario, a microfrontend...</h1>
       <span>
         I'm hosted at
-        <a target="_blank" href="https://mf-app2-blond.vercel.app/">
-          https://mf-app2-blond.vercel.app
+        <a target="_blank" href="https://mf-app1-theta.vercel.app/">
+          https://mf-app1-theta.vercel.app/
         </a>
       </span>
     </main>
